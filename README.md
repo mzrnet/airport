@@ -11,7 +11,7 @@
 ### 🔗 订阅直链
 
 ```
-https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml
+https://raw.githubusercontent.com/mzrnet/airport/main/subs/merged/tested_within.yaml
 ```
 
 ### 🚀 订阅镜像链接
@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_w
 > 如果无法访问/直连 Github 更新最新订阅，请使用镜像链接。
 
 ```
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/mzrnet/airport/main/subs/merged/tested_within.yaml
 ```
 
 ```
-https://fastly.jsdelivr.net/gh/dongchengjie/airport@main/subs/merged/tested_within.yaml
+https://fastly.jsdelivr.net/gh/mzrnet/airport@main/subs/merged/tested_within.yaml
 ```
 
 ## 🧪 测试明细
